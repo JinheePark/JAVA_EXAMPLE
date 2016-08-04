@@ -1,4 +1,4 @@
 JUnit 과제 입니다. 
-jinhee1 입니당 
+jinhee2 입니당 
 
 
